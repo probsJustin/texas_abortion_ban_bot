@@ -1,12 +1,11 @@
-import configuration
+import internal_module_configuration
+import internal_module_thread_handler
+import internal_module_system_arguments
 import logging
-import thread_handler
-import system_arguments
-import sys
 
 
 logging.basicConfig(filename='./ping.log', level=logging.DEBUG)
-instance_configuration = configuration.TABB_configuration()
-instance_thread_handler = thread_handler.ThreadHandler()
-instance_system_arguments = system_arguments.args()
+instance_configuration = internal_module_configuration.TABB_configuration()
+instance_thread_handler = internal_module_thread_handler.ThreadHandler()
+instance_system_arguments = internal_module_system_arguments.args()
 
