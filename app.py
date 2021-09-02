@@ -6,7 +6,7 @@ import sys
 
 
 logging.basicConfig(filename='./ping.log', level=logging.DEBUG)
-instance_configuration = configuration()
-instance_thread_handler = thread_handler()
-instance_system_arguments = system_arguments()
+instance_configuration = configuration.TABB_configuration()
+instance_thread_handler = thread_handler.ThreadHandler()
+instance_system_arguments = system_arguments.args()
 
