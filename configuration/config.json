@@ -1,10 +1,10 @@
 {
   "Scripts To Run (Directory Location)" : {
-      "Directory Location" : "example",
-      "Human Readable Name" : "example",
-      "How Often" : "example"
+      "Directory Location" : "SeleniumScripts/example_google.py",
+      "Human Readable Name" : "Example Google Selenium Script",
+      "How Often" : "1 min"
   },
   "Other Configuration Data" : {
-
+    "" : ""
   }
 }
