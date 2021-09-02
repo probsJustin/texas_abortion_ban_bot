@@ -11,7 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65eab67-ca0a-45e7-b09e-4ce8282d83d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumScripts/example_webhook_site.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system_arguments/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
