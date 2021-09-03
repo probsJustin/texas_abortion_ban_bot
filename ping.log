@@ -402,3 +402,103 @@ DEBUG:urllib3.connectionpool:http://127.0.0.1:59007 "DELETE /session/3c24adb0101
 DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
 DEBUG:urllib3.connectionpool:http://127.0.0.1:59010 "DELETE /session/204b7c387c59167669aaa2632bc7cc91/window HTTP/1.1" 200 12
 DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64796/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64796
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64797/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64797
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64795/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64795
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64803/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64803
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64799/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64798/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64804/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64799
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64798
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64804
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64801/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64801
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64812/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64812
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64811/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 127.0.0.1:64811
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64798 "POST /session HTTP/1.1" 200 793
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64799 "POST /session HTTP/1.1" 200 794
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64798/session/d7e02749c625242ef577f39ce59eab6f/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64799/session/c7133da5c2f0279ac360e38656527561/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64801 "POST /session HTTP/1.1" 200 794
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64801/session/65b17d1c2f2a3a7869cc38e6be5eae4a/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64803 "POST /session HTTP/1.1" 200 793
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64803/session/56a19f110db3d5e7a825d93e19d11ae9/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64796 "POST /session HTTP/1.1" 200 794
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64796/session/3b9dcef11de185b6368bee8840d7484e/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64812 "POST /session HTTP/1.1" 200 793
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64812/session/a63f07f0003b6ee35f63c4def3a3b663/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64811 "POST /session HTTP/1.1" 200 793
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64811/session/ca849c64e0a7c705fe36b2101c30145c/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64797 "POST /session HTTP/1.1" 200 794
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64797/session/d2ce44ac9f68001e6fdf79640468ea3e/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64804 "POST /session HTTP/1.1" 200 794
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64804/session/60db59ddb5c7d6c1ae42b27df815b4c9/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64795 "POST /session HTTP/1.1" 200 793
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:64795/session/921eccba984131a3ff6192d1dd979188/url {"url": "https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb"}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64799 "POST /session/c7133da5c2f0279ac360e38656527561/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64799/session/c7133da5c2f0279ac360e38656527561/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64798 "POST /session/d7e02749c625242ef577f39ce59eab6f/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64798/session/d7e02749c625242ef577f39ce59eab6f/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64799 "DELETE /session/c7133da5c2f0279ac360e38656527561/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64798 "DELETE /session/d7e02749c625242ef577f39ce59eab6f/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64801 "POST /session/65b17d1c2f2a3a7869cc38e6be5eae4a/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64801/session/65b17d1c2f2a3a7869cc38e6be5eae4a/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64801 "DELETE /session/65b17d1c2f2a3a7869cc38e6be5eae4a/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64796 "POST /session/3b9dcef11de185b6368bee8840d7484e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64796/session/3b9dcef11de185b6368bee8840d7484e/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64812 "POST /session/a63f07f0003b6ee35f63c4def3a3b663/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64812/session/a63f07f0003b6ee35f63c4def3a3b663/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64811 "POST /session/ca849c64e0a7c705fe36b2101c30145c/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64811/session/ca849c64e0a7c705fe36b2101c30145c/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64796 "DELETE /session/3b9dcef11de185b6368bee8840d7484e/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64812 "DELETE /session/a63f07f0003b6ee35f63c4def3a3b663/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64811 "DELETE /session/ca849c64e0a7c705fe36b2101c30145c/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64797 "POST /session/d2ce44ac9f68001e6fdf79640468ea3e/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64797/session/d2ce44ac9f68001e6fdf79640468ea3e/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64797 "DELETE /session/d2ce44ac9f68001e6fdf79640468ea3e/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64804 "POST /session/60db59ddb5c7d6c1ae42b27df815b4c9/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64804/session/60db59ddb5c7d6c1ae42b27df815b4c9/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64803 "POST /session/56a19f110db3d5e7a825d93e19d11ae9/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64803/session/56a19f110db3d5e7a825d93e19d11ae9/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64795 "POST /session/921eccba984131a3ff6192d1dd979188/url HTTP/1.1" 200 14
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:64795/session/921eccba984131a3ff6192d1dd979188/window {}
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64804 "DELETE /session/60db59ddb5c7d6c1ae42b27df815b4c9/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64803 "DELETE /session/56a19f110db3d5e7a825d93e19d11ae9/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:urllib3.connectionpool:http://127.0.0.1:64795 "DELETE /session/921eccba984131a3ff6192d1dd979188/window HTTP/1.1" 200 12
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request

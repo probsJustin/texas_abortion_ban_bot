@@ -11,7 +11,7 @@ class ThreadHandler:
 
     def set_number_of_instances_to_run(self, func_number_of_instances):
         for x in range(0, func_number_of_instances):
-            self.data.append(1)
+            self.data.append(x)
 
     def set_chrome_driver(self, func_chrome_driver):
         self.chrome_driver = func_chrome_driver
@@ -29,4 +29,4 @@ class ThreadHandler:
     def mp_workerFunctionLoggingTiming(self, id):
         print(" Processs Starting: " + str(id))
         self.mp_execute(self.chrome_driver)
-        print(" Process Stopping: ")
+        print(" Process Stopping: " + str(id))
