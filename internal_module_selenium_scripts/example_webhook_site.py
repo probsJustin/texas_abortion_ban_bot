@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 
-def run():
+def run(directory):
     '''
     Generate a end point at webhook and check the request
     going to use https://webhook.site/
@@ -9,6 +9,7 @@ def run():
     2.) copy link from site and paste it in the double quote of the browser.get() method
     '''
 
-    browser = webdriver.Chrome('chromedriver')
+    browser = webdriver.Chrome(directory)
     for i in range(1):
-        matched_elements = browser.get("")
+        matched_elements = browser.get("https://webhook.site/c8ffab5a-e125-4d44-b4b3-271dad8307bb")
+    browser.close()
