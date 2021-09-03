@@ -11,11 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d65eab67-ca0a-45e7-b09e-4ce8282d83d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/internal_module_selenium_scripts/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumScripts/example_google.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_module_selenium_scripts/example_google.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumScripts/example_webhook_site.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_module_selenium_scripts/example_webhook_site.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal_module_configuration/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_module_configuration/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal_module_configuration/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal_module_selenium_scripts/example_google.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_module_selenium_scripts/example_google.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/internal_module_thread_handler/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/internal_module_thread_handler/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,37 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\texas_abortion_ban_bot" />
       <recent name="C:\Repos\texas_abortion_ban_bot\internal_module_selenium_scripts" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="texas_abortion_ban_bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,6 +112,22 @@
       <screen x="-2560" y="0" width="2048" height="1112" />
     </state>
     <state x="-1755" y="311" key="FileChooserDialogImpl/-1731.-1080.1920.1040/189.-1080.1920.1040/0.0.1920.1040/-2560.0.2048.1112@-2560.0.2048.1112" timestamp="1630595735331" />
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom" timestamp="1630685573995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.bottom/-1731.-1080.1920.1040/189.-1080.1920.1040/0.0.1920.1040/-2560.0.2048.1112@0.0.1920.1040" timestamp="1630685573995" />
+    <state width="1899" height="278" key="GridCell.Tab.0.center" timestamp="1630685573995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.center/-1731.-1080.1920.1040/189.-1080.1920.1040/0.0.1920.1040/-2560.0.2048.1112@0.0.1920.1040" timestamp="1630685573995" />
+    <state width="1899" height="278" key="GridCell.Tab.0.left" timestamp="1630685573995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.left/-1731.-1080.1920.1040/189.-1080.1920.1040/0.0.1920.1040/-2560.0.2048.1112@0.0.1920.1040" timestamp="1630685573995" />
+    <state width="1899" height="278" key="GridCell.Tab.0.right" timestamp="1630685573995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="278" key="GridCell.Tab.0.right/-1731.-1080.1920.1040/189.-1080.1920.1040/0.0.1920.1040/-2560.0.2048.1112@0.0.1920.1040" timestamp="1630685573995" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1630682438762">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
