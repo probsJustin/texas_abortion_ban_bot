@@ -8,7 +8,7 @@ Thread executor/selenium script runner is working as intended, included in this 
 ### Instructions: 
 yeah probably not - probably not yet.... but it is going to be easy to use..... maybe?
 
-# Ideas? (maybe?): 
+### Ideas? (maybe?): 
 Might also add this: 
 https://faker.readthedocs.io/en/master/
 
